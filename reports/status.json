@@ -1,10 +1,10 @@
 {
   "total": 3201,
   "counts": {
-    "downloaded": 154,
+    "downloaded": 166,
     "oversized": 1,
     "failed": 1,
-    "pending": 3045
+    "pending": 3033
   },
   "complete": false,
   "stopped": null,
@@ -940,6 +940,78 @@
       "status": "downloaded",
       "bytes": 1711370,
       "sha256": "8b64485d82de3b0803c7ada1f27658d74766460109a23a6054e7bd177bb85d9c",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Astrological_Newsletter/THE_ASTROLOGICAL_NEWSLETTER_-_Issue-53_2018_June_09.pdf": {
+      "status": "downloaded",
+      "bytes": 1194188,
+      "sha256": "36b4f846462d84cf1e0546692c67a600c91529bbcf13696998f10a1e92017ff2",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Astrological_Newsletter/THE_ASTROLOGICAL_NEWSLETTER_-_Issue-54_2018_Nov_16.pdf": {
+      "status": "downloaded",
+      "bytes": 1669193,
+      "sha256": "a2ebf8b28cf09174f0d38077b43aea2a81764f8ad2bd9efa31006c43f307b13d",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Astrological_Newsletter/THE_ASTROLOGICAL_NEWSLETTER_-_Issue-55_2019_March_24.pdf": {
+      "status": "downloaded",
+      "bytes": 1276857,
+      "sha256": "ec6def53caf723e9af87c569d85a9f407b997338d93e85c328d509d1f236418e",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Astrological_Newsletter/THE_ASTROLOGICAL_NEWSLETTER_-_Issue-56_2019_October_02.pdf": {
+      "status": "downloaded",
+      "bytes": 1242431,
+      "sha256": "0264c17c1d007886d503fc7f5084a16e73a9252abd74bde4f855956bad5168b0",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad-Gita/bhagavad-gita_24x18.pdf": {
+      "status": "downloaded",
+      "bytes": 473033,
+      "sha256": "e45cf2a240513e7681ec61cd5161cdc6b621c21bc60013e9d256ab7e3f0e0e3f",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad-Gita/essence-of-gita_24x18.pdf": {
+      "status": "downloaded",
+      "bytes": 425962,
+      "sha256": "1c0a9cee8b9d63552764385ceb59ff57f1f4117331956c85d104c933915a1d41",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad-Gita/overcoming-the-problems-of-life.pdf": {
+      "status": "downloaded",
+      "bytes": 1406456,
+      "sha256": "79f8c92662e90eaac2390841565c940b94dae1590eea3b31d20a7e2c03fcc5f1",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad-Gita/The%20Book%20of%20Life.pdf": {
+      "status": "downloaded",
+      "bytes": 3354744,
+      "sha256": "da6395f8bf0af5bf85a1e3b2f7dbc505a4bb04ecc000d196a8d6ce1b0bfe9345",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad-Gita/The%20Teachings%20of%20the%20Bhagavad-Gita%20%284%29.pdf": {
+      "status": "downloaded",
+      "bytes": 155369,
+      "sha256": "f04756d88265a7b8bf54846f52e63eed350b92c4fb5996314bd37e0592004366",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad-Gita/The-Bhagavad-Gita-Sciences.pdf": {
+      "status": "downloaded",
+      "bytes": 2108642,
+      "sha256": "534021fe54c238f5d75e88f1afcbe60d2cdce5ae971d01426a80f213530c03ac",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad-Gita/world-unity-24x42.pdf": {
+      "status": "downloaded",
+      "bytes": 46492,
+      "sha256": "f03c1e0b2329cdd4a25db1acf86031c9f07f4af7198a9f6ef168fe893899e3ff",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_in_Khmer_Cambodian_Language/Bhagavad_Gita_As_It_Is_in_Khmer_Cambodian.pdf": {
+      "status": "downloaded",
+      "bytes": 16457480,
+      "sha256": "da02626e47c802d98958882a714a53aba33324213a684f5915324327c714480b",
       "attempts": 1
     }
   }
