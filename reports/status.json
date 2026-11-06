@@ -1,10 +1,10 @@
 {
   "total": 3201,
   "counts": {
-    "downloaded": 166,
+    "downloaded": 178,
     "oversized": 1,
     "failed": 1,
-    "pending": 3033
+    "pending": 3021
   },
   "complete": false,
   "stopped": null,
@@ -1012,6 +1012,78 @@
       "status": "downloaded",
       "bytes": 16457480,
       "sha256": "da02626e47c802d98958882a714a53aba33324213a684f5915324327c714480b",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions/Bhagavad_Gita_Question_Chapter-01_-_Part-01.pdf": {
+      "status": "downloaded",
+      "bytes": 69632,
+      "sha256": "b562e2effea42575f99b21ab1a216cdcc5936b593ea6b34bfebac89716d1d039",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions/Bhagavad_Gita_Question_Chapter-01_-_Part-02.pdf": {
+      "status": "downloaded",
+      "bytes": 69632,
+      "sha256": "7fd4e659b1dae4545243ed3f9eb68a3caeeb9da4f8b6de7952e54fd9ae529e2c",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions/Bhagavad_Gita_Question_Chapter-02.pdf": {
+      "status": "downloaded",
+      "bytes": 77824,
+      "sha256": "3cd400ccf2c39f29b72c6558ee4b2088f7e1ce1ecec2f016564ef54552e1b69d",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions/Bhagavad_Gita_Question_Chapter-03.pdf": {
+      "status": "downloaded",
+      "bytes": 168504,
+      "sha256": "fb6f3e7b26b86ed2aed66eecc701f584b3a8996a9b4b954c254710770e35fff1",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions/Bhagavad_Gita_Question_Chapter-04.pdf": {
+      "status": "downloaded",
+      "bytes": 77824,
+      "sha256": "8a23568f0577a7906f222105c1242b585787bfe5064bfde277aba915a95692e7",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions/Bhagavad_Gita_Question_Chapter-05.pdf": {
+      "status": "downloaded",
+      "bytes": 73728,
+      "sha256": "7cef3ccdbddd335812b198d094dd14780ed9909bea54e4cf00503f499e233d2d",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions/Bhagavad_Gita_Question_Chapter-06.pdf": {
+      "status": "downloaded",
+      "bytes": 77824,
+      "sha256": "3d276f9f5a4f3d142ada70c0276f69641f538cfd90363a61138d53af91340049",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions/Bhagavad_Gita_Question_Chapter-07.pdf": {
+      "status": "downloaded",
+      "bytes": 77824,
+      "sha256": "83f0ab4a3be8a18883a717cdfe0772840ed68c9a5cc0dcb8ebccbdb78106d0e7",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions/Bhagavad_Gita_Question_Chapter-08.pdf": {
+      "status": "downloaded",
+      "bytes": 83916,
+      "sha256": "9954874e20b351530d2eb76d96e1dae498025f0083a8f8afd15dca348bc75179",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions/Bhagavad_Gita_Question_Chapter-09.pdf": {
+      "status": "downloaded",
+      "bytes": 83440,
+      "sha256": "ca142148d7fcdeeef1bcad33d999be57e3708677fb3cca72151d1cf1e5271509",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions/Bhagavad_Gita_Question_Chapter-10.pdf": {
+      "status": "downloaded",
+      "bytes": 85582,
+      "sha256": "69d977748916afa6eefae462ac21912b1602ac05739b142fac430d0267ce2570",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions/Bhagavad_Gita_Question_Chapter-11.pdf": {
+      "status": "downloaded",
+      "bytes": 84226,
+      "sha256": "341fba8434bf63200e988b615db00dadad31eb8cb512926ba8e83da9d5a669de",
       "attempts": 1
     }
   }
