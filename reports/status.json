@@ -1,10 +1,10 @@
 {
   "total": 3201,
   "counts": {
-    "downloaded": 190,
+    "downloaded": 202,
     "oversized": 1,
     "failed": 1,
-    "pending": 3009
+    "pending": 2997
   },
   "complete": false,
   "stopped": null,
@@ -1156,6 +1156,78 @@
       "status": "downloaded",
       "bytes": 90112,
       "sha256": "fa4d196de90b214ba804857504f30ed1d7b5ba1e09235d552a75261afc59ae58",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions_and_Answers/Bhagavad_Gita_Question_and_Answer_Chapter-05.pdf": {
+      "status": "downloaded",
+      "bytes": 90112,
+      "sha256": "7d54c5d15f12ce16ee39d77537b49754b5918a7776e8b9b4967dbed15132358c",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions_and_Answers/Bhagavad_Gita_Question_and_Answer_Chapter-06.pdf": {
+      "status": "downloaded",
+      "bytes": 90112,
+      "sha256": "01eb4e594af2ae0209f8d90c7a13935c431325b84371fc6ed08fbbe6ee072ff0",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions_and_Answers/Bhagavad_Gita_Question_and_Answer_Chapter-07.pdf": {
+      "status": "downloaded",
+      "bytes": 90112,
+      "sha256": "84e924e0fa4e115a06240aedd899376ec5b7bddff59f656535398177b56c4e59",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions_and_Answers/Bhagavad_Gita_Question_and_Answer_Chapter-08.pdf": {
+      "status": "downloaded",
+      "bytes": 103538,
+      "sha256": "abc668244c0384b2ba595b2419aaed386e4e2148f35a7c19d9018123fdc66b0a",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions_and_Answers/Bhagavad_Gita_Question_and_Answer_Chapter-09.pdf": {
+      "status": "downloaded",
+      "bytes": 104861,
+      "sha256": "7b6cedc230d46010c85ebd51bcf996a0ee781f9b1fe13215b65ed25792e2f206",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions_and_Answers/Bhagavad_Gita_Question_and_Answer_Chapter-10.pdf": {
+      "status": "downloaded",
+      "bytes": 110167,
+      "sha256": "a51f9975eb52982cb441189116a12d5e1a502327891a525c833446c0a3ebb3f9",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions_and_Answers/Bhagavad_Gita_Question_and_Answer_Chapter-11.pdf": {
+      "status": "downloaded",
+      "bytes": 106273,
+      "sha256": "d224974bb83acfbe49964611acd26344ec7d514b5a7b71628b55f20340d01804",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions_and_Answers/Bhagavad_Gita_Question_and_Answer_Chapter-12.pdf": {
+      "status": "downloaded",
+      "bytes": 101260,
+      "sha256": "82ef89e29ac9f0cc7318b9b35f85271f8c26f63ad5de787d76f28930fde979d8",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions_and_Answers/Bhagavad_Gita_Question_and_Answer_Chapter-13.pdf": {
+      "status": "downloaded",
+      "bytes": 103872,
+      "sha256": "61b6545045b45615f090657000b3057dd0bbf72ef1e6fbb10b2733e4b96002d9",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions_and_Answers/Bhagavad_Gita_Question_and_Answer_Chapter-14.pdf": {
+      "status": "downloaded",
+      "bytes": 100031,
+      "sha256": "3bd061f1148c77dfef0c38818fe79b342385063ea950020522adb0604978c4a0",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions_and_Answers/Bhagavad_Gita_Question_and_Answer_Chapter-15.pdf": {
+      "status": "downloaded",
+      "bytes": 101935,
+      "sha256": "9f1747ffd3b6d66c01a6701a4fdc910e7f177e19f482770c16da018c57f84451",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions_and_Answers/Bhagavad_Gita_Question_and_Answer_Chapter-16.pdf": {
+      "status": "downloaded",
+      "bytes": 106181,
+      "sha256": "6af538e7675385616d938ffd2d27091091ba6259283c5fa52d2d2aba7822f167",
       "attempts": 1
     }
   }
