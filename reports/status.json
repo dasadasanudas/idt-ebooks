@@ -7,7 +7,7 @@
     "pending": 2661
   },
   "complete": false,
-  "stopped": null,
+  "stopped": "Time safety limit reached; rerun the Action to resume",
   "files": {
     "https://ebooks.iskcondesiretree.com/pdf/00_-_More/A_Journey_to_the_Holy_Dham_-_Nityananda_Das.pdf": {
       "status": "downloaded",
