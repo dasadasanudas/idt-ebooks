@@ -1,10 +1,10 @@
 {
   "total": 3201,
   "counts": {
-    "downloaded": 202,
+    "downloaded": 205,
     "oversized": 1,
-    "failed": 1,
-    "pending": 2997
+    "failed": 10,
+    "pending": 2985
   },
   "complete": false,
   "stopped": null,
@@ -1228,6 +1228,69 @@
       "status": "downloaded",
       "bytes": 106181,
       "sha256": "6af538e7675385616d938ffd2d27091091ba6259283c5fa52d2d2aba7822f167",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions_and_Answers/Bhagavad_Gita_Question_and_Answer_Chapter-17.pdf": {
+      "status": "downloaded",
+      "bytes": 100792,
+      "sha256": "8ca6858513b53f4f73edc4d1e3770c07c3ce86fbac0d78f3f89ee6b0562ca3de",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions_and_Answers/Bhagavad_Gita_Question_and_Answer_Chapter-18.pdf": {
+      "status": "downloaded",
+      "bytes": 85107,
+      "sha256": "c53df8f7c5e8255dee9a1d522440940087ac2d434809bd4e9bffce256c25e061",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavat_Prarthanavali/Bhagavat_Prarthanavali.pdf": {
+      "status": "downloaded",
+      "bytes": 1606846,
+      "sha256": "4eefde210786277d723091123f69f7c02ff385d3eb5aa9430adfee890cccb401",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_-_Janmastami_Special-Entering_Vrindavan_-_2019-08-26.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_01_-_2017-07-01.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_02_-_2017-08-01.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_03_-_2017-09-01.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_04_-_2017-10-01.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_05_-_2017-11-01.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_06-Gita_Jayanti_Special_-_2017-12-01.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_07-Art_of_Leaving_-_2018-01-01.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_08-Siva-The_Supreme_Vaishnava_-_2018-02.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
       "attempts": 1
     }
   }
