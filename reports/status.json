@@ -1,8 +1,9 @@
 {
   "total": 3201,
   "counts": {
-    "downloaded": 36,
-    "pending": 3165
+    "downloaded": 47,
+    "oversized": 1,
+    "pending": 3153
   },
   "complete": false,
   "stopped": null,
@@ -221,6 +222,76 @@
       "status": "downloaded",
       "bytes": 44187,
       "sha256": "16fa8bdd793009e9f32d65169303dc155a35c21652f0d64b651c2649d1d819d2",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Nitai_Pada_Kamala.pdf": {
+      "status": "downloaded",
+      "bytes": 4321707,
+      "sha256": "312ac05610f7304ebb58519d9e98f761db2011d828dfdcd638b9cdb5323f7253",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Nityanandastkam.pdf": {
+      "status": "downloaded",
+      "bytes": 16827341,
+      "sha256": "0af283a088be37f7f23911ec5b9c1c76473a2f59968108e7988cf068e6ff900a",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Prayers_to_Srimati_Radharani-With_Sahasranama.pdf": {
+      "status": "downloaded",
+      "bytes": 3557033,
+      "sha256": "eaaab7df2d9fa5c4f29df2e94e7b9c8760fcfa38c5ff7eee4e8da333ea0b2bf4",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Sacred_Revelations-Deities_Appearance_and_Divine_Pastimes_-_Dr.Maria_Michael.pdf": {
+      "status": "oversized",
+      "error": "File exceeds GitHub 100 MiB limit (156202101 bytes)"
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Sikshashtakam.pdf": {
+      "status": "downloaded",
+      "bytes": 17379445,
+      "sha256": "161b93df620c9a44ba3f7c14239771fef08d2fa7a48b7a86922ae710b51985f4",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Six_Tips_for_Giving_a_Class.pdf": {
+      "status": "downloaded",
+      "bytes": 185705,
+      "sha256": "489f65ca08898b664136f7bfcea0c5debba8abe6fe3e90acae73aa93c30784c0",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Sri%20Krishna%20Janamastami%20by%20Gour%20Govinda%20Swami%20Maharaja.pdf": {
+      "status": "downloaded",
+      "bytes": 820809,
+      "sha256": "ddf199676e16f0bb470313a8b457f082c83aa883c0da9ddfc53a9f4afe9c45c6",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Srila_Prabhupada_Lilamrita.pdf": {
+      "status": "downloaded",
+      "bytes": 30611950,
+      "sha256": "e1a40c7203819607b18fe25cc1b03e207a65edc39307a5e3743da0b198144e4e",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Supporting_Devotee_Mental_Wellness-The_Jiva_Academy_-_2024.pdf": {
+      "status": "downloaded",
+      "bytes": 3278377,
+      "sha256": "6451ec398d3c6b30694b5d5e262907e8ff21ef81e4f65f45a8da6bf17c5eff4d",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Taking_care_of_Krishna_devotees.pdf": {
+      "status": "downloaded",
+      "bytes": 617508,
+      "sha256": "846b9115a8b9eaeb6a804c15e918db3d276eccb7a96f28651a70c659acc5ff14",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/The_Glories_of_Srimati_Tulasi_Devi.pdf": {
+      "status": "downloaded",
+      "bytes": 666414,
+      "sha256": "c02bf3d2d9738b30271ac356183d5d77ca2b8010c91b5601e52a75207a4a2214",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/The_Krishna_Consciousness_Handbook.pdf": {
+      "status": "downloaded",
+      "bytes": 46164920,
+      "sha256": "57af751a05cf61d90cfb8ea1666a68eec98e52757760cfc0995ff94fed2af720",
       "attempts": 1
     }
   }
