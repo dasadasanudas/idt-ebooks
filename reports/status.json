@@ -3,8 +3,8 @@
   "counts": {
     "downloaded": 205,
     "oversized": 1,
-    "failed": 34,
-    "pending": 2961
+    "failed": 46,
+    "pending": 2949
   },
   "complete": false,
   "stopped": null,
@@ -1409,6 +1409,66 @@
       "attempts": 3
     },
     "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_32-Dealings_in_Divine_Discourses_-_2020-02.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_33-Absorption_and_Dependesnce_-_2020-03.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_34-Differences_of_Opinion_-_2020-04.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_35-The_Compassionate_Killer_-_2020-05.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_36-Monster_Mother_-_2020-06.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_37-Who_else_can_be_so_kind_-_2020-07.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_38-Janmastami_Special_-_2020-08.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_39-Bhadra_Purnima_Special_-_2020-09.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_40-On_the_Spur_of_the_Moment_-_2020-10.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_41-Rasaraj_under_Giriraj_-_2020-11.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_42-God_at_the_Gate_-_2020-12.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_43-Sadhusanga-New_Year_Special_-_2021.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_44-Varaha_Dvadashi_Special-Two_Divine_Board_-_2021-02.pdf": {
       "status": "failed",
       "error": "URLError: <urlopen error timed out>",
       "attempts": 3
