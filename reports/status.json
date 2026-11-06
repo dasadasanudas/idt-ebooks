@@ -1,10 +1,10 @@
 {
   "total": 3201,
   "counts": {
-    "downloaded": 58,
+    "downloaded": 70,
     "oversized": 1,
     "failed": 1,
-    "pending": 3141
+    "pending": 3129
   },
   "complete": false,
   "stopped": null,
@@ -364,6 +364,78 @@
       "status": "downloaded",
       "bytes": 718529,
       "sha256": "0ac115a125338e2b1a3d9d1ae1272c95e2caefb4a6be8b263e3a8c6515db1558",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/What%27s_a_Woman_to_Do_by_-_Visakha_Dasi.pdf": {
+      "status": "downloaded",
+      "bytes": 16872770,
+      "sha256": "a769ec6edaba093b77ea0fbcbe03bb24ca0d0964be2abf728ae16f96c79cadf3",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Whats_Happening_in_New_Vrindaban_Dham.pdf": {
+      "status": "downloaded",
+      "bytes": 1877026,
+      "sha256": "78e73849114bff96d7b9e2c5d8820e25671e3807556b6aeab3d0fbe2ecf7f3f4",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Why_Was_Balaram_Affectionate_to_Duryodhan.pdf": {
+      "status": "downloaded",
+      "bytes": 162210,
+      "sha256": "9d59f62f1658825013bdbf60d03256c657a927521fd1034ddba9caab02c1c408",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Yamuna_Devi_-_Marathi.pdf": {
+      "status": "downloaded",
+      "bytes": 891715,
+      "sha256": "21b5d48969816b76371cc1b0b4da7e5704bdc215544614951b9adfd617781feb",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/01_-_Mayapur_Times/Mayapur_Times_Newsletter_-_Issue_03_2018-09.pdf": {
+      "status": "downloaded",
+      "bytes": 6034782,
+      "sha256": "8d29c7026eeaf1334abb6b433a0d181f4773a229a80b856ddb7fc4db76aaedb2",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/02_-_Srila_Prabhupada_Stories_in_Sanskrit_by_Vandana_Agarwal/A%20Person%20is%20known%20by%20His%20Words-Sanskrit_-_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 308557,
+      "sha256": "b3d7e5f01d8c6eb9c042ed8f2daa47e8ce762deac7d664b4fad2f937a53cbb9a",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/02_-_Srila_Prabhupada_Stories_in_Sanskrit_by_Vandana_Agarwal/A_Person_is_Known_by_his_Words-English_-_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 1654784,
+      "sha256": "32e1ed41b89efafc619bfccfb73a12b0a2d3d6ed399bed001516e6ee98804ea5",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/02_-_Srila_Prabhupada_Stories_in_Sanskrit_by_Vandana_Agarwal/Antelope%20and%20the%20Hunter-Sanskrit_-_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 1175775,
+      "sha256": "ec007ef9e63dab6e1fbb90127ca260bf9fb6ec02bdf590ed24a0266992cb2297",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/02_-_Srila_Prabhupada_Stories_in_Sanskrit_by_Vandana_Agarwal/Antelope_and_the_hunter-English_-_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 1366271,
+      "sha256": "c06208ddb6fcac2bfb9fccfa29f0486f9c4388513829f69fbd23ba980b010c7d",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/02_-_Srila_Prabhupada_Stories_in_Sanskrit_by_Vandana_Agarwal/Bamboo_shoots_and_deodar_tree-English_-_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 719490,
+      "sha256": "3ed452a9affdfe79f12beafa575fe253d3cc4aadf3b3a2ebfa106f8112b14879",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/02_-_Srila_Prabhupada_Stories_in_Sanskrit_by_Vandana_Agarwal/Bamboo_shoots_and_deodar_tree-Sanskrit_-_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 777675,
+      "sha256": "d57ca0676c3c82155663deb69b5505eb2443ef218c7643418d766f1b417201cf",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/02_-_Srila_Prabhupada_Stories_in_Sanskrit_by_Vandana_Agarwal/Beautiful_Antlers-English_-_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 1224583,
+      "sha256": "0c0245a530667ff44c47d4a979906813401c949fb15e3e48182a6cecc11ac7cb",
       "attempts": 1
     }
   }
