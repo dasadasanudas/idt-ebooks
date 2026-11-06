@@ -1,0 +1,44 @@
+name: Download ebooks
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - idt.txt
+      - urls.txt
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ebook-import
+  cancel-in-progress: false
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Configure import commits
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Download and commit resumable batches
+        run: python -u mirror.py
+      - name: Preserve status even if import is incomplete
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: import-status
+          path: reports/status.json
+          if-no-files-found: ignore
