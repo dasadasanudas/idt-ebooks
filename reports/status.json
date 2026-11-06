@@ -3,8 +3,8 @@
   "counts": {
     "downloaded": 205,
     "oversized": 1,
-    "failed": 58,
-    "pending": 2937
+    "failed": 70,
+    "pending": 2925
   },
   "complete": false,
   "stopped": null,
@@ -1529,6 +1529,66 @@
       "attempts": 3
     },
     "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_56-Faith-The_key_to_enter_Krsna%27s_Wonderland-Vrindavan_-_2022-02.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_57-The_Mad_Elephant_Offense_-_2022-03.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_58-Reunion_of_Sita_and_Rama_-_2022-04.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_59-Narsimha_Chaturdashi_Special_-_2022-05.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_60-The_First_Love_Letter_-_2022-06.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_61-The_Pull_of_Divine_Love_-_2022-07.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_62-Janmastami_Special_-_2022-08.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_63-Radhastami_Bhadra_Purnima_Special_-_2022-09.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_64-Kartik_Special_-_2022-10.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_65-Tackling_Distress-The_Vrindavan_Way_-_2022-11.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_66-The_Dwellere_of_Our_Hearts_-_2022-12.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_67-Venu_Gita_-_2023-01.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_68-Building_Relationships_-_2023-02.pdf": {
       "status": "failed",
       "error": "URLError: <urlopen error timed out>",
       "attempts": 3
