@@ -1,0 +1,83 @@
+{
+  "total": 3201,
+  "counts": {
+    "downloaded": 12,
+    "pending": 3189
+  },
+  "complete": false,
+  "stopped": null,
+  "files": {
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/A_Journey_to_the_Holy_Dham_-_Nityananda_Das.pdf": {
+      "status": "downloaded",
+      "bytes": 24347040,
+      "sha256": "1e6bd6d2f34c5dd2182621c979ee553d987165663efba92f427cbb60062830a7",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Aajoba_-_Marathi.pdf": {
+      "status": "downloaded",
+      "bytes": 769198,
+      "sha256": "e4d8e4808e8e400dfe32dbd9d07d1cbc1253daa72b789ad9c716308d96a7597f",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/All_that_Lies_Within.pdf": {
+      "status": "downloaded",
+      "bytes": 2435290,
+      "sha256": "bb92f4243e84f292f92ddb367f15da1d91c30e5914aa818ed07e3fffcae283ea",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Bhagavad_Gita_As_It_Is-Only_Shlokas.pdf": {
+      "status": "downloaded",
+      "bytes": 376101,
+      "sha256": "c113005fb615076b973a1c87860431886f84ecde9bb27d1fe198072a28766989",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Bhagavad_Gita_Verses_Chap_01-18_%28English_and_Sanskrit%29.pdf": {
+      "status": "downloaded",
+      "bytes": 16699224,
+      "sha256": "31a377fa8063f8ac23519cbb562ecc0d4f325790198b48bdb7c6fee241ad0370",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Bhagavad_Gita_Verses_Chap_01-18_in_English.pdf": {
+      "status": "downloaded",
+      "bytes": 333413,
+      "sha256": "eec3cda931b9042d368cc0f5924dada9d9c27d55515eeb37bed4ee0f6c606d17",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Bhaktivedanta_Research_Centre_Newsletter_14.pdf": {
+      "status": "downloaded",
+      "bytes": 832802,
+      "sha256": "43a0abf3c88455aa9f34a9c7a6608e1310961d4aa2c6f459f1fdf2db05a1c2d9",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Cow_Care_in_Hindu_Animal_Ethics_-_Kenneth_R_Valpey.pdf": {
+      "status": "downloaded",
+      "bytes": 4333858,
+      "sha256": "4a48e41be700b58f43c0c8cfb916b58a8e24ff3f670c07b0e402b1392606e469",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Criticism%20And%20Vaishnavism.pdf": {
+      "status": "downloaded",
+      "bytes": 1324737,
+      "sha256": "0b4e4d213d8173094413efb128c7dd5f15f3116ef52b5da340eb5989baa1953d",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Distribute_Books_Distribute_Books_History_of_Book.pdf": {
+      "status": "downloaded",
+      "bytes": 21852110,
+      "sha256": "f2a67e3b14e30ab491b5176f8ff686a29127274c40ab52fbbf89163bd3c4e7ad",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Dynamics_of_Guru-Disciple_Relationship.pdf": {
+      "status": "downloaded",
+      "bytes": 78083,
+      "sha256": "921938edb88bef54951101e773756babc02fa293d19bb686cfbf4e40fe7e3d0e",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Ekadashi_Mahatmya-01_-_Hindi.pdf": {
+      "status": "downloaded",
+      "bytes": 1202947,
+      "sha256": "6995ccea3435eee6eaeab91ef2d2cce836220a1e5455654662639046401ec311",
+      "attempts": 1
+    }
+  }
+}
