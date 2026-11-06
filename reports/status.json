@@ -3,8 +3,8 @@
   "counts": {
     "downloaded": 205,
     "oversized": 1,
-    "failed": 10,
-    "pending": 2985
+    "failed": 22,
+    "pending": 2973
   },
   "complete": false,
   "stopped": null,
@@ -1289,6 +1289,66 @@
       "attempts": 1
     },
     "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_08-Siva-The_Supreme_Vaishnava_-_2018-02.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_09-Shadbhuja_Murti_-_2018-03.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_10-The_Ultimate_Protector_-_2018-04.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_11-Reservoir_of_All_Beauties_-_2018-05.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_12-Human_or_Divine_-_2018-06.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_13-Who_is_cause_of_my_Suffering_-_2018-07.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_14-A_Humble_Apology_-_2018-08.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_15-Janmastami_Special-An_Eventful_Tour_-_2018-09.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_16-The_Epitome_of_Love_-_2018-10.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_17-Disapproved_but_not_Disowned_-_2018-11.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_18-The_Art_of_Responding_Effectively_-_2018-12.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_19-Why_is_99_greater_than_100_-_2019-01.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_20-Light_of_hope_in_darkness_of_sorrow_-_2019-02.pdf": {
       "status": "failed",
       "error": "HTTPError: HTTP Error 404: Not Found",
       "attempts": 1
