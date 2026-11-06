@@ -3,8 +3,8 @@
   "counts": {
     "downloaded": 205,
     "oversized": 1,
-    "failed": 322,
-    "pending": 2673
+    "failed": 334,
+    "pending": 2661
   },
   "complete": false,
   "stopped": null,
@@ -2849,6 +2849,66 @@
       "attempts": 3
     },
     "https://ebooks.iskcondesiretree.com/pdf/Care_For_Cows/Care_For_Cows_-_2006_at_a_glance.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Care_For_Cows/Care_For_Cows_-_News.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Care_For_Cows/Care_For_Cows_-_News_-_2006-02.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Care_For_Cows/Care_For_Cows_-_News_-_2006-03.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Care_For_Cows/Care_For_Cows_-_News_-_2006-04.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Care_For_Cows/Care_For_Cows_-_News_-_2006-05.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Care_For_Cows/Care_For_Cows_-_News_-_2006-06.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Care_For_Cows/Care_For_Cows_-_News_-_2006-07.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Care_For_Cows/Care_For_Cows_-_News_-_2006-08.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Care_For_Cows/Care_For_Cows_-_News_-_2006-09.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Care_For_Cows/Care_For_Cows_-_News_-_2006-10.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Care_For_Cows/Care_For_Cows_-_News_-_2006-11.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Care_For_Cows/Care_For_Cows_-_News_-_2006-12.pdf": {
       "status": "failed",
       "error": "URLError: <urlopen error timed out>",
       "attempts": 3
