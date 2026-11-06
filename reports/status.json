@@ -1,8 +1,8 @@
 {
   "total": 3201,
   "counts": {
-    "downloaded": 12,
-    "pending": 3189
+    "downloaded": 24,
+    "pending": 3177
   },
   "complete": false,
   "stopped": null,
@@ -77,6 +77,78 @@
       "status": "downloaded",
       "bytes": 1202947,
       "sha256": "6995ccea3435eee6eaeab91ef2d2cce836220a1e5455654662639046401ec311",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Ekadashi_Mahatmya-01_-_Marathi.pdf": {
+      "status": "downloaded",
+      "bytes": 10070711,
+      "sha256": "cf6fa61aa44aa45487833dceffb6de604dc89e28d1ba1ed1f397aff064020e08",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Ekadashi_Mahatmya-02_-_Hindi.pdf": {
+      "status": "downloaded",
+      "bytes": 808133,
+      "sha256": "8594ec56d0532d6eb1a410a2b5e2000d29bf70084e7d721de650a2f6fdc48d20",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Ekadashi_Mahatmya-02_-_Marathi.pdf": {
+      "status": "downloaded",
+      "bytes": 5418332,
+      "sha256": "adcb979ac7bb608b9b22723acf4598b6f53acbcc4e71322cd66d2573b5fa7dde",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Fifty_Years_Celebrations_-_August_2016_Newsletter_Bhaktivedanta_Manor.pdf": {
+      "status": "downloaded",
+      "bytes": 1893032,
+      "sha256": "1d07815a2def6ad71a8211b104dfb29cb1552a2c89c78d003365a087b1ebfb36",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Founder_Acharya.pdf": {
+      "status": "downloaded",
+      "bytes": 1405431,
+      "sha256": "017fb31a5469a4814caeea70f2406b43b9340ace2e67f13fd45fcc795b8965e5",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Glories_of_Kartik_Month_-_ISKCON_Chowpatty.pdf": {
+      "status": "downloaded",
+      "bytes": 1884532,
+      "sha256": "266f346e6cc86ff27e0b3124f4d6e462fdfa84758a860b0f222f7338fb63ef7e",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Gopi_Geet_Calligraphy.pdf": {
+      "status": "downloaded",
+      "bytes": 1690280,
+      "sha256": "bffa8f04f395d095f6415a5e9623ef52834c8cf49955f8df351f74317dc0bb38",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Graduate_Course_on_Book_Distribution.pdf": {
+      "status": "downloaded",
+      "bytes": 623918,
+      "sha256": "b08643377e50b783d9dd7dc5b331d4f4f63759f03e0da0992e031e800138eea1",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Grihastha_Manual.pdf": {
+      "status": "downloaded",
+      "bytes": 173592,
+      "sha256": "f1e2799176b3fd78760286192f66056bcb2cafb44150e50e9e5996f973b0bc90",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Harinaam_Sankirtan_Manual.pdf": {
+      "status": "downloaded",
+      "bytes": 618056,
+      "sha256": "ed55676716cf5ac4f2bf30f1ba4191f07263b2f460774eebc14aed9b1c2a97c9",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/He_Prashna_Part-01_-_Marathi.pdf": {
+      "status": "downloaded",
+      "bytes": 1489165,
+      "sha256": "9f52ebd16b273300b20b8e9b36bfeb6e0c3d43a2575353cb1b257b7dd51b915a",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/He_Prashna_Part-02_-_Marathi.pdf": {
+      "status": "downloaded",
+      "bytes": 1210028,
+      "sha256": "a72980a7ec1e725b9c3ec6c2870e91297b4e200b48fccbad63e9f3c68fcbf2da",
       "attempts": 1
     }
   }
