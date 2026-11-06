@@ -3,8 +3,8 @@
   "counts": {
     "downloaded": 205,
     "oversized": 1,
-    "failed": 118,
-    "pending": 2877
+    "failed": 130,
+    "pending": 2865
   },
   "complete": false,
   "stopped": null,
@@ -1829,6 +1829,66 @@
       "attempts": 3
     },
     "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/01_Intro.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/02_Anarthas.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/03_Six_Sons.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/04_Putana.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/04a_Putana_Harmonist_article.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/05_Sakatasura.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/06_Trnavarta.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/07_Damodara_lila.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/08_Vatsasura.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/08_Vatsasura_Harmonist.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/09_Bakasura.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/10_Aghasura.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/11_Brahma_Vimohana_Lila.pdf": {
       "status": "failed",
       "error": "URLError: <urlopen error timed out>",
       "attempts": 3
