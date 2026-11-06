@@ -3,8 +3,8 @@
   "counts": {
     "downloaded": 205,
     "oversized": 1,
-    "failed": 166,
-    "pending": 2829
+    "failed": 178,
+    "pending": 2817
   },
   "complete": false,
   "stopped": null,
@@ -2069,6 +2069,66 @@
       "attempts": 3
     },
     "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Gaur_Lila/Gaura_Lila_15_-_CB_Adi_15.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Gaur_Lila/Gaura_Lila_16_-_CB_Adi_16.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Gaur_Lila/Gaura_Lila_17_-_CB_Adi_17.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Gaur_Lila/Gaura_Lila_18_-_CB_Madhya_01.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Gaur_Lila/Gaura_Lila_19_-_CB_Madhya_02.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Gaur_Lila/Gaura_Lila_20_-_CB_Madhya_03.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Gaur_Lila/Gaura_Lila_21_-_CB_Madhya_04.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Gaur_Lila/Gaura_Lila_22_-_CB_Madhya_05.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Gaur_Lila/Gaura_Lila_23_-_CB_Madhya_06.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Gaur_Lila/Gaura_Lila_24_-_CB_Madhya_07.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Gaur_Lila/Gaura_Lila_25_-_CB_Madhya_08.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Gaur_Lila/Gaura_Lila_26_-_CB_Madhya_09.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Gaur_Lila/Gaura_Lila_27_-_CB_Madhya_10.pdf": {
       "status": "failed",
       "error": "URLError: <urlopen error timed out>",
       "attempts": 3
