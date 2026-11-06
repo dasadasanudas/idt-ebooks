@@ -3,8 +3,8 @@
   "counts": {
     "downloaded": 205,
     "oversized": 1,
-    "failed": 142,
-    "pending": 2853
+    "failed": 154,
+    "pending": 2841
   },
   "complete": false,
   "stopped": null,
@@ -1949,6 +1949,66 @@
       "attempts": 3
     },
     "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/22_Aristasura.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/23_Kesi.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/24_Vyoma.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/Bhakti_Caitanya_Swami_book-02.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Bhagavad_Gita/01_BG-01.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Bhagavad_Gita/01_BG-01v.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Bhagavad_Gita/02_BG-02a.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Bhagavad_Gita/02_BG-02b.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Bhagavad_Gita/02_BG-02v.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Bhagavad_Gita/03_BG-03v.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Gaur_Lila/Gaura_Lila_01_-__from_Navadvipa_Dhama_Mahatmya.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Gaur_Lila/Gaura_Lila_02_-_CB_Adi_02.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Gaur_Lila/Gaura_Lila_03_-_CB_Adi_03.pdf": {
       "status": "failed",
       "error": "URLError: <urlopen error timed out>",
       "attempts": 3
