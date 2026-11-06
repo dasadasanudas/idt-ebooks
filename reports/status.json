@@ -1,8 +1,8 @@
 {
   "total": 3201,
   "counts": {
-    "downloaded": 24,
-    "pending": 3177
+    "downloaded": 36,
+    "pending": 3165
   },
   "complete": false,
   "stopped": null,
@@ -149,6 +149,78 @@
       "status": "downloaded",
       "bytes": 1210028,
       "sha256": "a72980a7ec1e725b9c3ec6c2870e91297b4e200b48fccbad63e9f3c68fcbf2da",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Importance_of_Cows_in_our_Lives.pdf": {
+      "status": "downloaded",
+      "bytes": 558145,
+      "sha256": "046787635ddaf9f5a470a776697e71ddbad7850839d8b09bcdf41a778e202bcd",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Introductory_handbook_for_Krishna_Consciousness.pdf": {
+      "status": "downloaded",
+      "bytes": 359509,
+      "sha256": "7bc781370610189e27f09559027ff6d0aea0d24e104c9fd8c267d2c1576f0756",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/ISKCON_Sannyasa_Ministry_Newsletter.pdf": {
+      "status": "downloaded",
+      "bytes": 1000823,
+      "sha256": "20ba38db60de98288f6a555da436907a29f34420231946a510d024a713df81ec",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Kirtan_Standards_Book.pdf": {
+      "status": "downloaded",
+      "bytes": 1459257,
+      "sha256": "3ec94290f80031ab5fa9932d27a48c7858fbc0efbca30e3cd81476a7240b8492",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Lord_Chaitanya_Mahaprabhus_South_India_Tour.pdf": {
+      "status": "downloaded",
+      "bytes": 56149203,
+      "sha256": "4f4744f0c327c3c6c8db6bc51babdc5c13df89d955899162d5f4c50a40346942",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Lord_Narsimha_Dev_-_Myanmar.pdf": {
+      "status": "downloaded",
+      "bytes": 2296677,
+      "sha256": "259d7834b9b86c9f638b054235b9b6f9e7bd7f67a7eec7a8567321bcb86baf36",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Love_between_God_and_the_Devotee.pdf": {
+      "status": "downloaded",
+      "bytes": 43422,
+      "sha256": "fad2f1563ea440163a473121f6ee9753dc591671adfc1ef7ab28273671f2f71a",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Mayapur_Is_My_Place_Of_Worship.pdf": {
+      "status": "downloaded",
+      "bytes": 5027868,
+      "sha256": "8bdb8bdd78b8b597e2a1e3ee7753f7b5ef502e4d576006cbc997c5faf1d354c7",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Monk%27s_Minimalist_Mindset_-_Yasomatinandana_Dasa.pdf": {
+      "status": "downloaded",
+      "bytes": 3840982,
+      "sha256": "858700fc5de1ad277e06995872c9ef72192fc177dd98bbfd2382e4dbfaa7412c",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/My_Dear_Humans.pdf": {
+      "status": "downloaded",
+      "bytes": 213378,
+      "sha256": "4456e11464d48806ff535c05f16e769c027067029ddf024db36dd589e8edf982",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Names_of_Srimati_Radharani_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 58443,
+      "sha256": "cad1a6971e6977726464974d906904fb939df65bb8a4d9c2ecbce5d59c82bfac",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Newsletter_Srila_Prabhupada_Samadhi_Mandir_-_Sept_2016.pdf": {
+      "status": "downloaded",
+      "bytes": 44187,
+      "sha256": "16fa8bdd793009e9f32d65169303dc155a35c21652f0d64b651c2649d1d819d2",
       "attempts": 1
     }
   }
