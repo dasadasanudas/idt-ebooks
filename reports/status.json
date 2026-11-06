@@ -1,10 +1,10 @@
 {
   "total": 3201,
   "counts": {
-    "downloaded": 130,
+    "downloaded": 142,
     "oversized": 1,
     "failed": 1,
-    "pending": 3069
+    "pending": 3057
   },
   "complete": false,
   "stopped": null,
@@ -796,6 +796,78 @@
       "status": "downloaded",
       "bytes": 1046567,
       "sha256": "d689b4d3c3a9ccf42e05285e8d7c284b80d92e21da643d6563621aa05b402480",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Astrological_Newsletter/THE_ASTROLOGICAL_NEWSLETTER_-_Issue-29_-_2012_May_16.pdf": {
+      "status": "downloaded",
+      "bytes": 752654,
+      "sha256": "3d7baabad44524fc27c69ad85a88f222c8f5e350aca81b4cdeac0a1e6353e1ac",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Astrological_Newsletter/THE_ASTROLOGICAL_NEWSLETTER_-_Issue-30_-_2012_June_14.pdf": {
+      "status": "downloaded",
+      "bytes": 1230534,
+      "sha256": "fd811713217f85975514e48d3df8698873348116bca560fd12bdf20cd3fa1f00",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Astrological_Newsletter/THE_ASTROLOGICAL_NEWSLETTER_-_Issue-31_-_2012_September_26.pdf": {
+      "status": "downloaded",
+      "bytes": 1065181,
+      "sha256": "d7111636bcb9e3ddaaa5be9b462dbaefa639040de0fbfc9e3f4524adb29b2fff",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Astrological_Newsletter/THE_ASTROLOGICAL_NEWSLETTER_-_Issue-32_-_2012_October_26.pdf": {
+      "status": "downloaded",
+      "bytes": 1767549,
+      "sha256": "747fbdb1c8656cdc6f161f94fa17bad569288819b85adf1a315f922a72a71566",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Astrological_Newsletter/THE_ASTROLOGICAL_NEWSLETTER_-_Issue-33_-_2012_December_23.pdf": {
+      "status": "downloaded",
+      "bytes": 1553677,
+      "sha256": "ecf162e9446407743463c428f9f5266eeb4748cc0e152b37079c4cb47dc43def",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Astrological_Newsletter/THE_ASTROLOGICAL_NEWSLETTER_-_Issue-33_-_2013_February_14.pdf": {
+      "status": "downloaded",
+      "bytes": 1089213,
+      "sha256": "93ec1ff71331c9e434a48c6d21282322554bd98d4cbdd3e4ecce68c4032190fe",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Astrological_Newsletter/THE_ASTROLOGICAL_NEWSLETTER_-_Issue-34_-_2013_April_13.pdf": {
+      "status": "downloaded",
+      "bytes": 1682859,
+      "sha256": "d13d5bd26ad6a30017b75a7ce814383bd53019e1e614f9d6c5e6a0c817130801",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Astrological_Newsletter/THE_ASTROLOGICAL_NEWSLETTER_-_Issue-35_-_2013_May_17.pdf": {
+      "status": "downloaded",
+      "bytes": 1145139,
+      "sha256": "b0536ee8d62e10bbe26dd33e729fce4d56199953a02b70916f1db06cdcc3875d",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Astrological_Newsletter/THE_ASTROLOGICAL_NEWSLETTER_-_Issue-37_-_2013_September_19.pdf": {
+      "status": "downloaded",
+      "bytes": 902235,
+      "sha256": "e2e5df0f339b304a3692e9bdc7d0607cb687ab2937ea3678f3c28cd36c38a388",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Astrological_Newsletter/THE_ASTROLOGICAL_NEWSLETTER_-_Issue-38_-_2013_December_12.pdf": {
+      "status": "downloaded",
+      "bytes": 1054384,
+      "sha256": "b4d31de612286fa3bc7396ac806dd19f2781df78ebc6732f5802c33bc313bd13",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Astrological_Newsletter/THE_ASTROLOGICAL_NEWSLETTER_-_Issue-39_-_2014_January_15.pdf": {
+      "status": "downloaded",
+      "bytes": 1255091,
+      "sha256": "767a4988ed34916ff0f1e85605b6b95becb2ece7371fbfc27e2b5b91f6038889",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Astrological_Newsletter/THE_ASTROLOGICAL_NEWSLETTER_-_Issue-40_-_2014_March_05.pdf": {
+      "status": "downloaded",
+      "bytes": 1250479,
+      "sha256": "86e9d7fd61bcd33f31ff11ea722e742d41aca276980f4ab5a3525b5c0feebce9",
       "attempts": 1
     }
   }
