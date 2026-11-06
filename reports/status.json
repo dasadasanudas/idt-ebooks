@@ -1,10 +1,10 @@
 {
   "total": 3201,
   "counts": {
-    "downloaded": 70,
+    "downloaded": 82,
     "oversized": 1,
     "failed": 1,
-    "pending": 3129
+    "pending": 3117
   },
   "complete": false,
   "stopped": null,
@@ -436,6 +436,78 @@
       "status": "downloaded",
       "bytes": 1224583,
       "sha256": "0c0245a530667ff44c47d4a979906813401c949fb15e3e48182a6cecc11ac7cb",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/02_-_Srila_Prabhupada_Stories_in_Sanskrit_by_Vandana_Agarwal/Beautiful_Antlers-Sanskrit_-_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 3927136,
+      "sha256": "6b01561a78bcf003b66738478b8abedf4b1dc30d65cceeed47a68afb1ad1fd5c",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/02_-_Srila_Prabhupada_Stories_in_Sanskrit_by_Vandana_Agarwal/Bogus_Sadhu-English_-_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 2368100,
+      "sha256": "847576b9875b17bd0a338620463d88267fc4b616823cb3af31f949aa9c391157",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/02_-_Srila_Prabhupada_Stories_in_Sanskrit_by_Vandana_Agarwal/Bogus_Sadhu-Sanskrit_-_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 5465646,
+      "sha256": "33099d836e0786e31eb1cfbe6f9338a914e04bf0a6eaaaf09678da406821aba5",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/02_-_Srila_Prabhupada_Stories_in_Sanskrit_by_Vandana_Agarwal/Cave_that_Talks-English_-_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 2078831,
+      "sha256": "62cf03a76de0a03b58ea509683e48fe011adf6235b66bcc350324a06a9c639d9",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/02_-_Srila_Prabhupada_Stories_in_Sanskrit_by_Vandana_Agarwal/Cave_that_Talks-Sanskrit_-_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 5554547,
+      "sha256": "d5214a6eda75b4650b307ccde4a8721502ba6a097331c7f3473b1309c8999b09",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/02_-_Srila_Prabhupada_Stories_in_Sanskrit_by_Vandana_Agarwal/Chotu_and_Micky-English_-_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 1648329,
+      "sha256": "0047fc615d08873035477688721c6adb8115099d461708c7429f97f3bbb35d93",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/02_-_Srila_Prabhupada_Stories_in_Sanskrit_by_Vandana_Agarwal/Chotu_and_Micky-Sanskrit_-_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 8355129,
+      "sha256": "06590950bfae2461e41248a200ec36bb67b9db5935130ad2305cc6ecb8f342f3",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/02_-_Srila_Prabhupada_Stories_in_Sanskrit_by_Vandana_Agarwal/Clever_Fox-English_-_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 2274870,
+      "sha256": "bd76c3fb18c4aee421ff92d9a6aa717a34ef85d42e08487b97a4f8047bf3e040",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/02_-_Srila_Prabhupada_Stories_in_Sanskrit_by_Vandana_Agarwal/Clever_Fox-Sanskrit_-_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 3877735,
+      "sha256": "10d0c221e62921f7e3542f20e19efe778873034ca7b552e399e3edd9d4b47d1c",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/02_-_Srila_Prabhupada_Stories_in_Sanskrit_by_Vandana_Agarwal/Come_on_let_me_grab_this_one_too-English_-_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 842360,
+      "sha256": "9a6900aca939a1e4669beb97be03c0bc6d6483ff7b987a15b8807c059f260a27",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/02_-_Srila_Prabhupada_Stories_in_Sanskrit_by_Vandana_Agarwal/Come_on_let_me_grab_this_one_too-Sanskrit_-_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 4585302,
+      "sha256": "bf2b959b6779685e40e948be8fea69a7e45f5643c0f43f8d7f6cf5f27dc0d26c",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/02_-_Srila_Prabhupada_Stories_in_Sanskrit_by_Vandana_Agarwal/Dr.Frog-English_-_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 1468636,
+      "sha256": "904d12a9ccdec834b29ef5018e61a322b231fce9e63c909690872346128f2121",
       "attempts": 1
     }
   }
