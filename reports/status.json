@@ -1,9 +1,10 @@
 {
   "total": 3201,
   "counts": {
-    "downloaded": 47,
+    "downloaded": 58,
     "oversized": 1,
-    "pending": 3153
+    "failed": 1,
+    "pending": 3141
   },
   "complete": false,
   "stopped": null,
@@ -292,6 +293,77 @@
       "status": "downloaded",
       "bytes": 46164920,
       "sha256": "57af751a05cf61d90cfb8ea1666a68eec98e52757760cfc0995ff94fed2af720",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/The_Nature_of_Mahatama_-_HH_Gour_Govinda_Swami.pdf": {
+      "status": "downloaded",
+      "bytes": 699496,
+      "sha256": "5d5686c96e07bee3e38ca8919eb8f5a3dfd1687d88eb15d9bc617fc1460da3a7",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Treasure_of_Brhat_Mridanga_-_Chapter_01-14.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Twelve_Names_of_the_Moonlike_Nityananda_Prabhu_and_12_Mahajans.pdf": {
+      "status": "downloaded",
+      "bytes": 909740,
+      "sha256": "2e6a2fef9bd2debb757114d15b43169400f2be6226c21e26856cde24b6814a86",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Unspoken_Obstacles_on_the_Path_to_Bhakti.pdf": {
+      "status": "downloaded",
+      "bytes": 413827,
+      "sha256": "0dbe22e27ace46d0f378220354de7974f31a1ba02bc0831c53570c4c60550c8c",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Vacha_Ani_Sanga-01_-_Marathi.pdf": {
+      "status": "downloaded",
+      "bytes": 1471970,
+      "sha256": "10d3b2392cb7b5134daa016d84b36df2c1277b69cbbe482dc8a8f543e45b1e2e",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Vacha_Ani_Sanga-02_-_Marathi.pdf": {
+      "status": "downloaded",
+      "bytes": 1488887,
+      "sha256": "1f5118df7e468c3624d05b641d35158c524861f57e88ceb2191f8a52ba76b21f",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Vaishnava_Song_Book-Hindi.pdf": {
+      "status": "downloaded",
+      "bytes": 2215818,
+      "sha256": "fda23476030d6a0bc23e70ea83d3be657cfbb99c8b7cde3c02fe5023a278da95",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Vaishnava_Song_Book.pdf": {
+      "status": "downloaded",
+      "bytes": 1293643,
+      "sha256": "6d44c367e902d1a670efa7991899b380cec3edfe2ef4d23b3f972831eb15d5f2",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Vaisnava_Ke.pdf": {
+      "status": "downloaded",
+      "bytes": 163345,
+      "sha256": "614e1bf30bf53cd953bab819a456d0f753ca055f8cd3ab18488b94631908c841",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Verses_most_Quoted_by_Srila_Prabhupada.pdf": {
+      "status": "downloaded",
+      "bytes": 1212100,
+      "sha256": "570ab2543708b9c5cdd67773e613cdddd466d177dd62334031d18e0c87b96861",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Vishnu_Sahasra_Nama.pdf": {
+      "status": "downloaded",
+      "bytes": 257533,
+      "sha256": "460f78fb88e3d27d6797b0b9cb728308eb9cc12725f8a1531c56eeb0a1df650b",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/00_-_More/Vrndavana_Ramya_Sthana_-_Damodar_Svarupa_Prabhu-Bengali.pdf": {
+      "status": "downloaded",
+      "bytes": 718529,
+      "sha256": "0ac115a125338e2b1a3d9d1ae1272c95e2caefb4a6be8b263e3a8c6515db1558",
       "attempts": 1
     }
   }
