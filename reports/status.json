@@ -1,10 +1,10 @@
 {
   "total": 3201,
   "counts": {
-    "downloaded": 94,
+    "downloaded": 106,
     "oversized": 1,
     "failed": 1,
-    "pending": 3105
+    "pending": 3093
   },
   "complete": false,
   "stopped": null,
@@ -580,6 +580,78 @@
       "status": "downloaded",
       "bytes": 8239044,
       "sha256": "dfd0735b6c7d7fd98387db309d79777adba27eeba52ce13f8415928d446959a6",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/AFFCAP_%28Ahimsa_Foundation_for_Cattle_Protection%29%20/2015/02_-_AFFCAP_-_2015_March-April.pdf": {
+      "status": "downloaded",
+      "bytes": 5918637,
+      "sha256": "ee7a3a5ec7ed31e8cdf8657910c0d0a37c38b4fd7b918702ff84a8b4ad644fa0",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/AFFCAP_%28Ahimsa_Foundation_for_Cattle_Protection%29%20/2015/03_-_AFFCAP_-_2015_May-June.pdf": {
+      "status": "downloaded",
+      "bytes": 9049896,
+      "sha256": "c504a5b8f6dc1b8da70004f07f849e0a52505a618461db815bd0044eca5ab6cf",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/AFFCAP_%28Ahimsa_Foundation_for_Cattle_Protection%29%20/2015/04_-_AFFCAP_-_2015_Sep-Oct.pdf": {
+      "status": "downloaded",
+      "bytes": 7027225,
+      "sha256": "12211e9f4ea0887d0cb7b0091584e838f839f0c707804083b3c8fe366e419833",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/AFFCAP_%28Ahimsa_Foundation_for_Cattle_Protection%29%20/2015/05_-_AFFCAP_-_2015_Nov-Dec.pdf": {
+      "status": "downloaded",
+      "bytes": 7426795,
+      "sha256": "ea145eb40dc82c47259b6dd6b8e529db5859b954f1ff4278ca72facf9c670615",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/AFFCAP_%28Ahimsa_Foundation_for_Cattle_Protection%29%20/2016/AFFCAP_-_2016_Jan-Feb.pdf": {
+      "status": "downloaded",
+      "bytes": 7263752,
+      "sha256": "24a6909820f4b93df36a0dd8c6aed15a510705a3ea7e79c5c8ff6865d783cfb6",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Astottara/Astottara-sata-namas_%20108%20_%20of%20Lord%20Gauranga_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 14282,
+      "sha256": "cfc374c3e07e77aac3f031cda5a245a07b33061c31673404b2b3b5509c274c3e",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Astottara/Astottara-sata-namas_%20108%20_%20of%20Lord%20Krishna_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 23418,
+      "sha256": "4dba1a843b8790187401d8d3f9e536c015d4cae81cc2829c97455bd579a30079",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Astottara/Astottara-sata-namas_%20108%20_%20of%20Lord%20Nrsimhadeva_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 16954,
+      "sha256": "99009ed24a3ea921f49b57c987843f7d83c53f89255ffe53da5199e295363f4d",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Astrological_Newsletter/THE_ASTROLOGICAL_NEWSLETTER_-_Issue-01a_-_2010_JANUARY_15.pdf": {
+      "status": "downloaded",
+      "bytes": 61894,
+      "sha256": "73d7f650603075e95607d82e27f56d5b69676cdfcb7dbfe3a15a403fcc956e9f",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Astrological_Newsletter/THE_ASTROLOGICAL_NEWSLETTER_-_Issue-01b_-_2010_JANUARY_24.pdf": {
+      "status": "downloaded",
+      "bytes": 50018,
+      "sha256": "9e0377df1d56da7616e32f67ab134057447b7f64e776c63fd7475e409399e55a",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Astrological_Newsletter/THE_ASTROLOGICAL_NEWSLETTER_-_Issue-02_-_2010_FEBRUARY_07.pdf": {
+      "status": "downloaded",
+      "bytes": 65516,
+      "sha256": "93f5c4afe0a87c74916f8aa0baee368ce92b12ab78fbf78b423e7afde0920e02",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Astrological_Newsletter/THE_ASTROLOGICAL_NEWSLETTER_-_Issue-03_-_2010_MARCH.pdf": {
+      "status": "downloaded",
+      "bytes": 113716,
+      "sha256": "f7c819ce1b7f9aebc2be33a2b1eb42a27fb4dd8b54a341312750e7bee3b00b8d",
       "attempts": 1
     }
   }
