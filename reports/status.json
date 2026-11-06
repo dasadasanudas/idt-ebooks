@@ -1,10 +1,10 @@
 {
   "total": 3201,
   "counts": {
-    "downloaded": 178,
+    "downloaded": 190,
     "oversized": 1,
     "failed": 1,
-    "pending": 3021
+    "pending": 3009
   },
   "complete": false,
   "stopped": null,
@@ -1084,6 +1084,78 @@
       "status": "downloaded",
       "bytes": 84226,
       "sha256": "341fba8434bf63200e988b615db00dadad31eb8cb512926ba8e83da9d5a669de",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions/Bhagavad_Gita_Question_Chapter-12.pdf": {
+      "status": "downloaded",
+      "bytes": 82790,
+      "sha256": "00d66fd644bad17053d99ece28522ac0e475714ae2188ccfc7e97028a6f57bce",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions/Bhagavad_Gita_Question_Chapter-13.pdf": {
+      "status": "downloaded",
+      "bytes": 82163,
+      "sha256": "60e58dd9d23ce1e4a8fb5673813a4dd2387b427ceeb3d5c1be3f6d4f00685857",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions/Bhagavad_Gita_Question_Chapter-14.pdf": {
+      "status": "downloaded",
+      "bytes": 81117,
+      "sha256": "a903ae7ef451441b20b8ebe86bed3fa7e869a1de15594b1faf11b64d290692f3",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions/Bhagavad_Gita_Question_Chapter-15.pdf": {
+      "status": "downloaded",
+      "bytes": 83138,
+      "sha256": "882accc8013afbbaefd2cee12136d2957057e3c1a5b5632b56ab71dd53656787",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions/Bhagavad_Gita_Question_Chapter-16.pdf": {
+      "status": "downloaded",
+      "bytes": 83185,
+      "sha256": "b9dbbc73762904d51c6baf9d2dab056b7a973824d624101833a353fe304bd0cf",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions/Bhagavad_Gita_Question_Chapter-17.pdf": {
+      "status": "downloaded",
+      "bytes": 82019,
+      "sha256": "3e5db26bc3199c7847957f7664e845f32580e628914ae8190c26e8574914d9c6",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions/Bhagavad_Gita_Question_Chapter-18.pdf": {
+      "status": "downloaded",
+      "bytes": 74623,
+      "sha256": "f2d55d9ff7a152f01bd486ae43ca27d958a1284d4e9e1eb64480cd863dd2c3e5",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions_and_Answers/Bhagavad_Gita_Question_and_Answer_Chapter-01_-_Part-01.pdf": {
+      "status": "downloaded",
+      "bytes": 81920,
+      "sha256": "25b0b18a47d9e5431a492ed2e72c6b778eba6fcd70ff5ea398baa2cad1047d8a",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions_and_Answers/Bhagavad_Gita_Question_and_Answer_Chapter-01_-_Part-02.pdf": {
+      "status": "downloaded",
+      "bytes": 77824,
+      "sha256": "edbaaeb4383b79641ac39ad72c29a3b79b9473f8e48e6e87ed143e188d7b5d93",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions_and_Answers/Bhagavad_Gita_Question_and_Answer_Chapter-02.pdf": {
+      "status": "downloaded",
+      "bytes": 90112,
+      "sha256": "fb0fd02d5221722b27d8a9ef8be60935a5a6f5e8a9fd7420b6bd80fb7bda4dd6",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions_and_Answers/Bhagavad_Gita_Question_and_Answer_Chapter-03.pdf": {
+      "status": "downloaded",
+      "bytes": 188484,
+      "sha256": "d37343984299ed00abaca9edb50dc607716166de73634194f391c8414a47176f",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavad_Gita_Q%26A/Mercy_Beggars/Questions_and_Answers/Bhagavad_Gita_Question_and_Answer_Chapter-04.pdf": {
+      "status": "downloaded",
+      "bytes": 90112,
+      "sha256": "fa4d196de90b214ba804857504f30ed1d7b5ba1e09235d552a75261afc59ae58",
       "attempts": 1
     }
   }
