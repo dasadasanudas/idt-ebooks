@@ -3,8 +3,8 @@
   "counts": {
     "downloaded": 205,
     "oversized": 1,
-    "failed": 106,
-    "pending": 2889
+    "failed": 118,
+    "pending": 2877
   },
   "complete": false,
   "stopped": null,
@@ -1769,6 +1769,66 @@
       "attempts": 3
     },
     "https://ebooks.iskcondesiretree.com/pdf/Bhaktivedanta_Manor/Newsletter_-_Celebrating_Janmastami_-_2019-10_Bhaktivedanta_Manor.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhaktivedanta_Manor/Newsletter_-_Diwali_Celebrations_-_Bhaktivedanta_Manor_December_2016.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhaktivedanta_Manor/Newsletter_-_Diwali_Celebrations_December_2018_-_Bhaktivedanta_Manor.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhaktivedanta_Manor/Newsletter_-_February_2018_-_Bhaktivedanta_Manor.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhaktivedanta_Manor/Newsletter_-_March_2018_-_Bhaktivedanta_Manor.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhaktivedanta_Manor/Newsletter_-_November_2017_-_Bhaktivedanta_Manor.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhaktivedanta_Manor/Newsletter_-_Reach_the_Doorsteps_-_Bhaktivedanta_Manor.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhaktivedanta_Manor/Newsletter_-_Sri_Krishna_Janmastami_-_Bhaktivedanta_Manor.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Book_Distribution/Getting_The_Mercy-Book_Distribution_and_the_Ultimate_Goal-Revised.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Book_Distribution/Treasure_of_Brhat_Mrdanga_Chapters_1-6.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Books_By_Mayapur_Gurukul/Defeating_Vatsasura-A_book_by_Mayapur_Gurukul.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Books_By_Mayapur_Gurukul/Vaisnava_Sukta_Manjari_Mantra-Book_by_Mayapur_Gurukul.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/01_Intro.pdf": {
       "status": "failed",
       "error": "URLError: <urlopen error timed out>",
       "attempts": 3
