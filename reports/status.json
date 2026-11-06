@@ -3,8 +3,8 @@
   "counts": {
     "downloaded": 205,
     "oversized": 1,
-    "failed": 298,
-    "pending": 2697
+    "failed": 310,
+    "pending": 2685
   },
   "complete": false,
   "stopped": null,
@@ -2729,6 +2729,66 @@
       "attempts": 3
     },
     "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Others/Vrajamap.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Upadeshamrita/01_Bhajana_Lalasa.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Upadeshamrita/02_Preface.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Upadeshamrita/03_General_Notes.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Upadeshamrita/04_Nectar_Of_Instruction-01.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Upadeshamrita/05_Nectar_Of_Instruction-02.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Upadeshamrita/06_Nectar_Of_Instruction-03.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Upadeshamrita/07_Nectar_Of_Instruction-04.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Upadeshamrita/08_Nectar_Of_Instruction-05.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Upadeshamrita/09_Nectar_Of_Instruction-06.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Upadeshamrita/10_Nectar_Of_Instruction-07.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Upadeshamrita/11_Nectar_Of_Instruction-08.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Upadeshamrita/12_Nectar_Of_Instruction-9.pdf": {
       "status": "failed",
       "error": "URLError: <urlopen error timed out>",
       "attempts": 3
