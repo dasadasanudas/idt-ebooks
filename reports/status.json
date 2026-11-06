@@ -3,8 +3,8 @@
   "counts": {
     "downloaded": 205,
     "oversized": 1,
-    "failed": 130,
-    "pending": 2865
+    "failed": 142,
+    "pending": 2853
   },
   "complete": false,
   "stopped": null,
@@ -1889,6 +1889,66 @@
       "attempts": 3
     },
     "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/11_Brahma_Vimohana_Lila.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/12_Dhenakasura.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/13_Kaliya.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/13_Kaliya_BSST.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/14_Forest_Fire-01.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/15_Pralambha.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/16_Forest_Fire-02.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/17_Brahmana_Patnis.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/18_Govardhana.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/19_Varuna.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/20_Nanda_rescued_from_the_snake.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/21_Sankacuda.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Boulder_Krishna_House/Anartha_Nivritti/22_Aristasura.pdf": {
       "status": "failed",
       "error": "URLError: <urlopen error timed out>",
       "attempts": 3
