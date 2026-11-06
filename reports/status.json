@@ -1,10 +1,10 @@
 {
   "total": 3201,
   "counts": {
-    "downloaded": 82,
+    "downloaded": 94,
     "oversized": 1,
     "failed": 1,
-    "pending": 3117
+    "pending": 3105
   },
   "complete": false,
   "stopped": null,
@@ -508,6 +508,78 @@
       "status": "downloaded",
       "bytes": 1468636,
       "sha256": "904d12a9ccdec834b29ef5018e61a322b231fce9e63c909690872346128f2121",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/02_-_Srila_Prabhupada_Stories_in_Sanskrit_by_Vandana_Agarwal/Dr.Frog-Sanskrit_-_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 96502,
+      "sha256": "4cbfddac9ce7ea3caa5bf6fde187fdbb1d25134b624db808812cca5d668f1336",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/02_-_Srila_Prabhupada_Stories_in_Sanskrit_by_Vandana_Agarwal/Logical_Bull-English_-_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 1024490,
+      "sha256": "a8c75812cd71b0798b835a20de65421d6a3d5a93694bb875731aa6607db9b6e7",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/02_-_Srila_Prabhupada_Stories_in_Sanskrit_by_Vandana_Agarwal/Logical_Bull-Sanskrit_-_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 46973,
+      "sha256": "17fd2c6a1a946195d6a0209fa27ea5b93a9dac1e419814430545f98ac9e3579d",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/02_-_Srila_Prabhupada_Stories_in_Sanskrit_by_Vandana_Agarwal/Narada_Muni_and_Snake-English_-_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 2371822,
+      "sha256": "6d5baae2a7176b1d431a292365ade70b23afd0e9be9426b737223d9b687d5806",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/02_-_Srila_Prabhupada_Stories_in_Sanskrit_by_Vandana_Agarwal/Narada_Muni_and_Snake-Sanskrit_-_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 102190,
+      "sha256": "1b60a4f0c130ce5bc90ecae57abca80892f4194face57d720760a2205cc61f69",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/02_-_Srila_Prabhupada_Stories_in_Sanskrit_by_Vandana_Agarwal/The_Brahman_and_the_Cobbler-English_-_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 1912196,
+      "sha256": "e2f42e12ef57d752cbe1e1065916469e9d829c3d2fffd354b94d254fda3b7207",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/02_-_Srila_Prabhupada_Stories_in_Sanskrit_by_Vandana_Agarwal/The_Brahman_and_the_Cobbler-Sanskrit_-_IDesireTree.pdf": {
+      "status": "downloaded",
+      "bytes": 116116,
+      "sha256": "9063fdca383b4d60d665dd68aaf10151bb98007ba6532aaf172f3f1e98a695f6",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/AFFCAP_%28Ahimsa_Foundation_for_Cattle_Protection%29%20/2014/02_-_AFFCAP_-_2014_Feburary-March.pdf": {
+      "status": "downloaded",
+      "bytes": 1548839,
+      "sha256": "8812ff66a72a6a93586c6f45a4820b41ee38e7a4d72e7690971e724acb907fda",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/AFFCAP_%28Ahimsa_Foundation_for_Cattle_Protection%29%20/2014/03_-_AFFCAP_-_2014_April-May.pdf": {
+      "status": "downloaded",
+      "bytes": 1307927,
+      "sha256": "3ecef9b5c75311d5511bcfda86420d8666fc2637d5c7458ffb958e355df756b8",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/AFFCAP_%28Ahimsa_Foundation_for_Cattle_Protection%29%20/2014/04_-_AFFCAP_-_2014_June-July.pdf": {
+      "status": "downloaded",
+      "bytes": 1534265,
+      "sha256": "d6e38fee8764f41551dd1a8127bd0281a218489c62ebdb5bd1542a40b37a67f2",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/AFFCAP_%28Ahimsa_Foundation_for_Cattle_Protection%29%20/2014/05_-_AFFCAP_-_2014_August-October.pdf": {
+      "status": "downloaded",
+      "bytes": 1597836,
+      "sha256": "aa30759818d40f93b3f01a9b204e9feb974ecf340157737a95b817af5c81fed8",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/AFFCAP_%28Ahimsa_Foundation_for_Cattle_Protection%29%20/2015/01_-_AFFCAP_-_2015_January-Feburary.pdf": {
+      "status": "downloaded",
+      "bytes": 8239044,
+      "sha256": "dfd0735b6c7d7fd98387db309d79777adba27eeba52ce13f8415928d446959a6",
       "attempts": 1
     }
   }
