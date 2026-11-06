@@ -3,8 +3,8 @@
   "counts": {
     "downloaded": 205,
     "oversized": 1,
-    "failed": 22,
-    "pending": 2973
+    "failed": 34,
+    "pending": 2961
   },
   "complete": false,
   "stopped": null,
@@ -1352,6 +1352,66 @@
       "status": "failed",
       "error": "HTTPError: HTTP Error 404: Not Found",
       "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_21-Is_God_Partial_-_2019-03.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_22-Floating_Stones_Ramanavami_Special_-_2019-04.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_23-Selfless_and_Seamless_Devotion_-_2019-05.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_24-The_Divine_Order_-_2019-06.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_25-The_Supreme_Shelter_-_2019-07.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_26-Entering_Vrindavan-Janmastami_Special_-_2019-08.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_27-Complaints_of_Love_-_2019-09.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_28-The_Book_Form_of_Vrindavan_-_2019-10.pdf": {
+      "status": "failed",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "attempts": 1
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_29-Tulasi_-_2019-11.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_30-Uddhava_Gita_-_2019-12.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_31-One_Man%27s_Mistake_-_2020-01.pdf.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
+    },
+    "https://ebooks.iskcondesiretree.com/pdf/Bhagavata_Pradipika/Bhagavata_Pradipika_Issue_32-Dealings_in_Divine_Discourses_-_2020-02.pdf": {
+      "status": "failed",
+      "error": "URLError: <urlopen error timed out>",
+      "attempts": 3
     }
   }
 }
